@@ -1,4 +1,4 @@
-print ("hello wotld")
+def main(msg):
+    print(msg)
 
-
-
+main("hello people")
